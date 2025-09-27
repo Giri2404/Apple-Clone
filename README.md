@@ -1,6 +1,6 @@
 # 🍏 Apple Website Clone (React + Tailwind)
 
-A **static React-based clone** of the [Apple India Website](https://www.apple.com/in/), built with **component-based architecture** and styled using **Tailwind CSS**.  
+A **static React-based clone** of the [Apple India Website](https://apple-clone-azure-xi.vercel.app/), built with **component-based architecture** and styled using **Tailwind CSS**.  
 This project focuses on creating a visually accurate replica of the Apple homepage with reusable components and clean UI design.
 
 ---
